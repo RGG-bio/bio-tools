@@ -1,0 +1,17 @@
+#example tleap script
+
+source leaprc.protein.ff19SB
+source leaprc.water.opc
+source leaprc.RNA.OL3
+
+model=loadpdb model.pdb
+
+saveAmberParm model model.prmtop model.inpcrd
+
+addIons model Cl- 0
+solvateOct model OPCBOX 5.0
+
+addIonsRand model Na+ number Cl- number
+
+saveamberparm model model_box.prmtop model_box.inpcrd
+quit

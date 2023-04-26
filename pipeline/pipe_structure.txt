@@ -1,0 +1,208 @@
+.
+├── log_pipe.log
+├── m_1
+│   ├── m_1
+│   │   ├── m_1_box.inpcrd
+│   │   ├── m_1_box.prmtop
+│   │   ├── m_1.inpcrd
+│   │   ├── m_1.prmtop
+│   │   ├── leap.log
+│   │   ├── m_1.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── protein
+│   │   ├── protein_box.inpcrd
+│   │   ├── protein_box.prmtop
+│   │   ├── protein.inpcrd
+│   │   ├── protein.prmtop
+│   │   ├── leap.log
+│   │   ├── protein.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rna
+│   │   ├── rna_box.inpcrd
+│   │   ├── rna_box.prmtop
+│   │   ├── rna.inpcrd
+│   │   ├── rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1
+│   │   ├── rrm1_box.inpcrd
+│   │   ├── rrm1_box.prmtop
+│   │   ├── rrm1.inpcrd
+│   │   ├── rrm1.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1_rna
+│   │   ├── rrm1_rna_box.inpcrd
+│   │   ├── rrm1_rna_box.prmtop
+│   │   ├── rrm1_rna.inpcrd
+│   │   ├── rrm1_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2
+│   │   ├── rrm2_box.inpcrd
+│   │   ├── rrm2_box.prmtop
+│   │   ├── rrm2.inpcrd
+│   │   ├── rrm2.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2_rna
+│   │   ├── rrm2_rna_box.inpcrd
+│   │   ├── rrm2_rna_box.prmtop
+│   │   ├── rrm2_rna.inpcrd
+│   │   ├── rrm2_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   └── vmd_select.tcl
+├── m_2
+│   ├── m_2
+│   │   ├── m_2_box.inpcrd
+│   │   ├── m_2_box.prmtop
+│   │   ├── m_2.inpcrd
+│   │   ├── m_2.prmtop
+│   │   ├── leap.log
+│   │   ├── m_2.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── protein
+│   │   ├── protein_box.inpcrd
+│   │   ├── protein_box.prmtop
+│   │   ├── protein.inpcrd
+│   │   ├── protein.prmtop
+│   │   ├── leap.log
+│   │   ├── protein.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rna
+│   │   ├── rna_box.inpcrd
+│   │   ├── rna_box.prmtop
+│   │   ├── rna.inpcrd
+│   │   ├── rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1
+│   │   ├── rrm1_box.inpcrd
+│   │   ├── rrm1_box.prmtop
+│   │   ├── rrm1.inpcrd
+│   │   ├── rrm1.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1_rna
+│   │   ├── rrm1_rna_box.inpcrd
+│   │   ├── rrm1_rna_box.prmtop
+│   │   ├── rrm1_rna.inpcrd
+│   │   ├── rrm1_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2
+│   │   ├── rrm2_box.inpcrd
+│   │   ├── rrm2_box.prmtop
+│   │   ├── rrm2.inpcrd
+│   │   ├── rrm2.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2_rna
+│   │   ├── rrm2_rna_box.inpcrd
+│   │   ├── rrm2_rna_box.prmtop
+│   │   ├── rrm2_rna.inpcrd
+│   │   ├── rrm2_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   └── vmd_select.tcl
+├── m_3
+│   ├── m_3
+│   │   ├── m_3_box.inpcrd
+│   │   ├── m_3_box.prmtop
+│   │   ├── m_3.inpcrd
+│   │   ├── m_3.prmtop
+│   │   ├── leap.log
+│   │   ├── m_3.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── protein
+│   │   ├── protein_box.inpcrd
+│   │   ├── protein_box.prmtop
+│   │   ├── protein.inpcrd
+│   │   ├── protein.prmtop
+│   │   ├── leap.log
+│   │   ├── protein.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rna
+│   │   ├── rna_box.inpcrd
+│   │   ├── rna_box.prmtop
+│   │   ├── rna.inpcrd
+│   │   ├── rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1
+│   │   ├── rrm1_box.inpcrd
+│   │   ├── rrm1_box.prmtop
+│   │   ├── rrm1.inpcrd
+│   │   ├── rrm1.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm1_rna
+│   │   ├── rrm1_rna_box.inpcrd
+│   │   ├── rrm1_rna_box.prmtop
+│   │   ├── rrm1_rna.inpcrd
+│   │   ├── rrm1_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm1_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2
+│   │   ├── rrm2_box.inpcrd
+│   │   ├── rrm2_box.prmtop
+│   │   ├── rrm2.inpcrd
+│   │   ├── rrm2.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   ├── rrm2_rna
+│   │   ├── rrm2_rna_box.inpcrd
+│   │   ├── rrm2_rna_box.prmtop
+│   │   ├── rrm2_rna.inpcrd
+│   │   ├── rrm2_rna.prmtop
+│   │   ├── leap.log
+│   │   ├── rrm2_rna.pdb
+│   │   ├── tleap.log
+│   │   └── tleap_run.in
+│   └── vmd_select.tcl
+├── models
+│   ├── m_1.pdb
+│   ├── m_2.pdb
+│   └── m_3.pdb
+├── pipe_commands_tleap.sh
+├── pipe_mkdir_structure_vmd_copy_files.sh
+├── pipe_structure.txt
+├── tleap_run.in
+└── vmd_select.tcl
+
+25 directories, 180 files

@@ -1,0 +1,112 @@
+------------ The model for these systems is m_1 -----------
+   All the files were succesfully created 
+---The system being analysed: m_1
+     The system volume: 915491
+     The system density:0.918
+all coordinates and topology files created
+                      
+---The system being analysed: protein
+     The system volume: 1005176
+     The system density:0.917
+all coordinates and topology files created
+                      
+---The system being analysed: rna
+     The system volume: 50675
+     The system density:0.833
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1
+     The system volume: 517159
+     The system density:0.900
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1_rna
+     The system volume: 420510
+     The system density:0.899
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2
+     The system volume: 115510
+     The system density:0.832
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2_rna
+     The system volume: 177733
+     The system density:0.864
+all coordinates and topology files created
+                      
+------------ The model for these systems is m_2 -----------
+   All the files were succesfully created 
+---The system being analysed: m_2
+     The system volume: 879054
+     The system density:0.915
+all coordinates and topology files created
+                      
+---The system being analysed: protein
+     The system volume: 978624
+     The system density:0.916
+all coordinates and topology files created
+                      
+---The system being analysed: rna
+     The system volume: 50676
+     The system density:0.833
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1
+     The system volume: 421785
+     The system density:0.895
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1_rna
+     The system volume: 404428
+     The system density:0.900
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2
+     The system volume: 134939
+     The system density:0.845
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2_rna
+     The system volume: 210124
+     The system density:0.870
+all coordinates and topology files created
+                      
+------------ The model for these systems is m_3 -----------
+   All the files were succesfully created 
+---The system being analysed: m_3
+     The system volume: 1050930
+     The system density:0.920
+all coordinates and topology files created
+                      
+---The system being analysed: protein
+     The system volume: 1052002
+     The system density:0.916
+all coordinates and topology files created
+                      
+---The system being analysed: rna
+     The system volume: 50678
+     The system density:0.833
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1
+     The system volume: 470273
+     The system density:0.900
+all coordinates and topology files created
+                      
+---The system being analysed: rrm1_rna
+     The system volume: 468900
+     The system density:0.905
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2
+     The system volume: 149679
+     The system density:0.846
+all coordinates and topology files created
+                      
+---The system being analysed: rrm2_rna
+     The system volume: 230953
+     The system density:0.874
+all coordinates and topology files created
+                      
+----all done check the log file----
