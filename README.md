@@ -1,6 +1,6 @@
 # Bioinformatics-tools
 
-## generate_md_systems
+##![](figures/logo.png) generate_md_systems
 This is a short bash script which helps the automatization of your md_simulation systems.
 In order for this to work for your project there are some dependencies to be installed first:
 * VMD for the visualisation of models
