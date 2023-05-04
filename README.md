@@ -5,10 +5,10 @@
 
 ## Description
 This is a short bash script which helps the automatization of your md_simulation systems.
-The script edits your script for each model and system you need for your md_simulation. 
-After editing the scripts it runs the tleap first to extract the volume and density of your system and after integrates these values in a small perl script to calculate the number of atoms necessary for our system.
-The user will need to respect the project structure mentioned in the pipe_structure.txt
-In this pipeline directory the user needs to provide a tleap script with 2 variables set as default values that would be replaced in the generation of the script for each system.
+<p> The script edits your script for each model and system you need for your md_simulation. 
+<p> After editing the scripts it runs the tleap first to extract the volume and density of your system and after integrates these values in a small perl script to calculate the number of atoms necessary for our system.
+<p>The user will need to respect the project structure mentioned in the pipe_structure.txt
+<p> In this pipeline directory the user needs to provide a tleap script with 2 variables set as default values that would be replaced in the generation of the script for each system.
 These variables are model and number.
 
 ## Dependencies 
