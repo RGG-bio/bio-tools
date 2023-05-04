@@ -199,8 +199,7 @@
 │   ├── m_1.pdb
 │   ├── m_2.pdb
 │   └── m_3.pdb
-├── pipe_commands_tleap.sh
-├── pipe_mkdir_structure_vmd_copy_files.sh
+├── generate_md_systems.sh
 ├── pipe_structure.txt
 ├── tleap_run.in
 └── vmd_select.tcl
